@@ -1,3 +1,4 @@
 gkeep==1.0.1
 gkeepapi==0.14.2
+openai==0.19.0
 python-dotenv==0.19.2
